@@ -6,15 +6,15 @@ Tech blog is a full stack web application in which users can create an account a
 
 ## Usage 
 
-To use web application simply visit the deployed site at: [Tech Blog](https://technology-blog-spot.herokuapp.com/)
+To use web application simply visit the deployed site at: [Tech Blog](https://theoverhypetechblog.herokuapp.com/)
 
 Returning users can simply log in, new users can easily create a new account by clicking sign up link
 
-[GitHub Repo](https://github.com/IvanFelipeEscobar/Tech-Blog)
+[GitHub Repo](https://github.com/zellyb/tech-blog)
 
 ## Credits
 
-Application made by Ivan Felipe Escobar
+Application made by kelly b
 
 ## License
 
